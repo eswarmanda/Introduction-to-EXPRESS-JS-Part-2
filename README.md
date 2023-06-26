@@ -1,0 +1,3 @@
+# Introduction-to-EXPRESS-JS-Part-2
+
+initialize the first connection between datebase and express_js with help of Node_js...
